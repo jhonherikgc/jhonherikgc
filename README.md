@@ -23,4 +23,4 @@
 <br>
 - 💡 English | Portuguese 🇧🇷
 <br>
-<img src="![trippy-felix-felix-the-cat](https://github.com/user-attachments/assets/9e6ecf00-a6a4-44de-aaf4-9abe2c07961d)">
+<img src="(https://github.com/user-attachments/assets/9e6ecf00-a6a4-44de-aaf4-9abe2c07961d)">
