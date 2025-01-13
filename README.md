@@ -23,4 +23,8 @@
 <br>
 - 💡 English | Portuguese 🇧🇷
 <br>
-<img src="(https://github.com/user-attachments/assets/9e6ecf00-a6a4-44de-aaf4-9abe2c07961d)">
+<hr>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/9e6ecf00-a6a4-44de-aaf4-9abe2c07961d" width="900px" height="700px">
+</div>
+<hr>
