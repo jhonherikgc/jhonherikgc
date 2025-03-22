@@ -32,12 +32,8 @@
 
 <br/>
 
-<a href="https://github.com/jhonherikgc" title="Profile-github">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 
 [![Gmail Badge](https://img.shields.io/badge/-jhonherik006@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonherik006@gmail.com)](mailto:jhonherik006@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/jhonherikgc)
+
