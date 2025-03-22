@@ -1,30 +1,43 @@
 
-### Hello World! I'm Jhon 🤘 
-    IT Student, Programmer By Client-Side
 
-#
+## Sobre mim
 
-### Work Platforms - Langs
+- 🤔 Explorando novas tecnologias e desenvolvendo conhecimentos.
+- 🎓 Estudando TIG 2/3 (TECNICO DE INFORMÁTICA E GESTÃO) no Agrupamento de Escolas Afonso de Albuquerque (AEAAG) Guarda-PT.
+- 💼 Estagiário da Câmara Municipal da Guarda - Portugal.
+- 🌱 Aprendendo mais sobre desenvolvimento front-end.
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div> <br/>
+## Minhas Skills
 
-<br>
-- 🔭I’m collaborating as a Front-end Developer;
-<br>
-- 👀 Open to work;
-<br>
-- 📫 How to reach me: e-mail - jhonherik006@gmail.com;
-<br>
-- 💡 English | Portuguese 🇧🇷
-<br>
-<hr>
-<div align="center">
-<img src="https://github.com/user-attachments/assets/9e6ecf00-a6a4-44de-aaf4-9abe2c07961d" width="900" height="500px">
-</div>
-<hr>
+**Aplicações e dados**
+
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/jhonherikgc" title="Profile-github">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+
+[![Gmail Badge](https://img.shields.io/badge/-jhonherik006@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonherik006@gmail.com)](mailto:jhonherik006@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/jhonherikgc)
