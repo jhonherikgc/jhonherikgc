@@ -4,7 +4,6 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo conhecimentos.
 - 🎓 Cursando 2ºTIG 2/3 (TECNICO DE INFORMÁTICA E GESTÃO) no AEAAG, Guarda-PT.
-- 💼 Estagiário da Câmara Municipal da Guarda - Portugal.
 - 🌱 Aprendendo mais sobre desenvolvimento Front-end.
 - 💡 English | Portuguese 🇧🇷.
 
