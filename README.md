@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo conhecimentos.
-- 🎓 Cursando 2ºTIG 2/3 (TECNICO DE INFORMÁTICA E GESTÃO) no AEAAG, Guarda-PT.
+- 🎓 Cursando 2ºTIG 3/3 (TECNICO DE INFORMÁTICA E GESTÃO) no AEAAG, Guarda-PT.
 - 🌱 Aprendendo mais sobre desenvolvimento Front-end.
 - 💡 English | Portuguese 🇧🇷.
 
