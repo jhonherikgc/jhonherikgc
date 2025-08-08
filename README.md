@@ -14,7 +14,7 @@
 ## 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonherik006@gmail.com) 
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonherikgc/)](https://www.linkedin.com/in/jhonherikgc/)
+[![Linkedin: Ellen](https://img.shields.io/badge/-jhonherikgc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonherikgc/)](https://www.linkedin.com/in/jhonherikgc/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonherikgc/) <br><br>
 
 
