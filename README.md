@@ -12,8 +12,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,vite,github,git,docker,azure,windows,linux)](https://skillicons.dev)<br><br>
 
 ## 🗣️ Languages
-🇧🇷 Portuguese <br>
-🇺🇸 Intermediary English
+Portuguese 🇧🇷. <br>
+Intermediary English 🇺🇸 
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=jhonherikgc&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
