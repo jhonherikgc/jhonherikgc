@@ -14,7 +14,7 @@
 ## 📫 Contato
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jhonherik006@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonherikgc/) <br><br>
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jhonherikgc/) <br><br>
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=jhonherikgc&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
