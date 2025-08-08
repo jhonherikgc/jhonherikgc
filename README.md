@@ -11,11 +11,6 @@
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,vite,github,git,docker,azure,windows,linux)](https://skillicons.dev)<br><br>
 
-## 📫 Contato
-
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jhonherik006@gmail.com) 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jhonherikgc/) <br><br>
-
 
 [![card](https://github-readme-stats.vercel.app/api?username=jhonherikgc&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
