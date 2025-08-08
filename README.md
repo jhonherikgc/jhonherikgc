@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,react,sass,docker,,azure,linux,windows)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,react,docker,azure,linux,windows)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
@@ -19,5 +19,5 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=jhonherikgc&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Vamos conectar! 😊 <br><br>
 
