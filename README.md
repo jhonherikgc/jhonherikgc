@@ -1,11 +1,3 @@
-<p align="right">
-  <a href="./README.en.md">Read in English 🇺🇸</a>
-</p>
-
-<p align="right">
-  <a href="./README.md">Leia em Português 🇧🇷</a>
-</p>
-
 <h1 align="center">👋 Hello! I'm {Jhon Herik}</h1>
 
 <p align="center">
