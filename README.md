@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there! I'm {Jhon Herik}</h1>
+<h1 align="center">👋 Hello! I'm {Jhon Herik}</h1>
 
 <p align="center">
   💻 Programming Studend | 🌍 Technology Enthusiast
