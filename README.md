@@ -16,7 +16,5 @@ Portuguese 🇧🇷. <br>
 Intermediary English 🇺🇸 
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=jhonherikgc&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 Feel free to contact me to discuss collaborations, interesting projects, or anything else related to programming. Let's connect! 😊 <br><br>
 
