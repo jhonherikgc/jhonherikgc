@@ -1,6 +1,6 @@
 # 👨‍💻 Jhon Castro
 
-**`Desenvolvedo FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Jhon Herik, tenho 18 anos sou natural do Distrito Federal, Brasília. Estou cursando o utlimo ano do ensino médio aqui em Portugal, com o curso Técnico em Informática e Gestão. Atualmente, estou estudando Desenvolvimento de Sistemas de forma autodidata. Sou um entusiasta apaixonado por tecnologia, tenho interesses em áreas como: Desenvolvimento Full-Stack, CyberSegurança e DevOps.
 
