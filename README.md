@@ -1,20 +1,33 @@
-<h1 align="center">👋 Hello! I'm {Jhon Herik}</h1>
+# 👨‍💻 Jhon Castro
 
-<p align="center">
-  💻 Programming Studend | 🌍 Technology Enthusiast
-</p><br><br>
+**`Desenvolvedo FullStack`**
 
+Me chamo Jhon Herik, tenho 18 anos sou natural do Distrito Federal, Brasília. Estou cursando o utlimo ano do ensino médio aqui em Portugal, com o curso Técnico em Informática e Gestão. Atualmente, estou estudando Desenvolvimento de Sistemas de forma autodidata. Sou um entusiasta apaixonado por tecnologia, tenho interesses em áreas como: Desenvolvimento Full-Stack, CyberSegurança e DevOps.
 
-## 🚀 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript)](https://skillicons.dev)<br><br>
+---
 
-## 🛠️ Tools and Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,vite,github,git,docker,azure,windows,linux)](https://skillicons.dev)<br><br>
+### 🤖 Linguagens e Tecnologias
 
-## 🗣️ Languages
-Portuguese 🇧🇷. <br>
-Intermediary English 🇺🇸 
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,reactjs,tailwind,nodejs,express,linux,windows)](https://skillicons.dev)<br><br>
+<br/>
+<br/>
 
+### 📊 Estatísticas
 
-Feel free to contact me to discuss collaborations, interesting projects, or anything else related to programming. Let's connect! 😊 <br><br>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jhonherikgc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonherikgc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
