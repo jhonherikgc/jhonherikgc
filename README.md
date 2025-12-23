@@ -12,6 +12,15 @@ Me chamo Jhon Herik, tenho 18 anos sou natural do Distrito Federal, Brasília. E
 <br/>
 <br/>
 
+### 📚 Estudando
+
+- Nodejs + express + mongodb
+
+### 🗣️ Linguas
+
+- **Português**: nativo
+- **Inglês**: intermediário a avançado
+
 ### 📊 Estatísticas
 
 <p>
