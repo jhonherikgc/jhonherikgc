@@ -27,5 +27,6 @@ Me chamo Jhon Herik, tenho 18 anos sou natural do Distrito Federal, Brasília. E
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonherikgc&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
+<img height="150em" src="https://streak-stats.demolab.com?user=jhonherikgc&theme=synthwave" alt="GitHub Streak"/>
 
 </p>
