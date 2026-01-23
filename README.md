@@ -18,3 +18,11 @@ Me chamo Jhon Herik, tenho 19 anos sou natural do Distrito Federal, Brasília. E
 
 - **Português**: nativo
 - **Inglês**: intermediário a avançado <br><br>
+
+<a href="https://github.com/jhonherikgc/github-readme-stats">
+<div align="center">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=jhonherikgc&theme=react&show_icons=true&locale=pt-br" />
+  &nbsp;&nbsp; <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonherikgc&theme=react&layout=compact&locale=pt-br" />
+</div>
+</a>
+
