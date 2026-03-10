@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jhon Herik, tenho 19 anos sou natural do Distrito Federal, Brasília. Estou cursando o utlimo ano do ensino médio aqui em Portugal, com o curso Técnico em Informática e Gestão. Atualmente, estou estudando Desenvolvimento de Sistemas de forma autodidata. Sou um entusiasta apaixonado por tecnologia, tenho interesses em áreas como: Desenvolvimento Full-Stack, CyberSegurança e DevOps.
+Me chamo Jhon Herik, tenho 19 anos sou natural do Distrito Federal, Brasília. Atualmente moro em Portugal e estou cursando o utlimo ano do Ensino Profissional, com o curso Técnico em Informática e Gestão, atualmente equivalente a nível 4/6. Atualmente, estou estudando Desenvolvimento de Sistemas de forma autodidata. Sou um entusiasta apaixonado por tecnologia, tenho interesses em áreas como: Desenvolvimento Full-Stack, CyberSegurança e DevOps.
 
 ---
 
@@ -13,7 +13,7 @@ Me chamo Jhon Herik, tenho 19 anos sou natural do Distrito Federal, Brasília. E
 ### 📚 Atualmente estudando
 
 - Back-end Node (API's)
-- MariaDB & MongoDB <br><br>
+- <br><br>
 
 ### 🗣️ Linguas
 
