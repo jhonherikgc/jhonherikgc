@@ -10,7 +10,7 @@ Me chamo Jhon Herik, tenho 19 anos sou natural do Distrito Federal, Brasília. A
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,vite,nodejs,express,mongodb,mysql,docker,git,linux,windows)](https://skillicons.dev)<br><br>
 
-### 📚 Atualmente estudando
+### 📚 Estudando
 
 - Redux Saga & React Hooks
 <br><br>
