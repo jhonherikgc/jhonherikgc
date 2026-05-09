@@ -13,6 +13,7 @@ Me chamo Jhon Herik, tenho 19 anos sou natural do Distrito Federal, Brasília. A
 ### 📚 Estudando
 
 - Redux Saga & React Hooks
+- Cisco Networking Academy - Python Essentials 2
 <br><br>
 
 ### 🗣️ Linguas
