@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/jhonherikgc">
-    <img src="https://img.shields.io/badge/Status-Estudando-brightgreen?style=for-the-badge" alt="Status Estudando">
+    <img src="https://img.shields.io/badge/Status-Estudante-brightgreen?style=for-the-badge" alt="Status Estudante">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ### 🚀 Tenho interesses em áreas como:
 - **Desenvolvimento Full-Stack**
-- **Ciber Segurança**
+- **CiberSegurança**
 - **DevOps**
 
 ### 🛠️ Tecnologias & Ferramentas
