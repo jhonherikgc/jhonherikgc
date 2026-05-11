@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Jhon Herik! 👋</h1>
+<h1 align="center">Hello World! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/jhonherikgc">
@@ -7,15 +7,15 @@
 </p>
 
 <p align="left">
-  Brasileiro natural de Brasília (DF), atualmente residindo em <b>Portugal</b> 🇵🇹. Estou no último ano do curso Técnico de <b>Informática e Gestão (Nível 4/6)</b> e trilhando um caminho autodidata no desenvolvimento de sistemas. Sou um entusiasta apaixonado por criar soluções eficientes e seguras.
+  Me chamo Jhon Herik, sou brasileiro natural de Brasília (DF), atualmente residindo em <b>Portugal</b> 🇵🇹. Estou no último ano do curso Técnico de <b>Informática e Gestão (Nível 4/6)</b> e trilhando um caminho autodidata no desenvolvimento de sistemas. Sou um entusiasta apaixonado por criar soluções eficientes e seguras.
 </p>
 
 ---
 
-### 🚀 Áreas de Interesse
-- **Full-Stack:** Construindo interfaces modernas e backends robustos.
-- **CyberSecurity:** Protegendo dados e entendendo vulnerabilidades (estudando Cisco NetAcad).
-- **DevOps:** Automatizando processos com Docker e Linux.
+### 🚀 Tenho interesses em áreas como:
+- **Desenvolvimento Full-Stack**.
+- **CyberSecurity**
+- **DevOps** .
 
 ### 🛠️ Tecnologias & Ferramentas
 <div align="center">
@@ -27,9 +27,9 @@
 ### 📊 Meu Progresso
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonherikgc/jhonherikgc/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhonherikgc/jhonherikgc/pacman-output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/jhonherikgc/jhonherikgc/pacman-output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonherikgc/jhonherikgc/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhonherikgc/jhonherikgc/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/jhonherikgc/jhonherikgc/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -45,11 +45,8 @@
 ### 📫 Vamos conversar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-USER-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/jhonherikgc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.com/users/SEU-ID-AQUI" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   <a href="https://github.com/jhonherikgc">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github logo" />
