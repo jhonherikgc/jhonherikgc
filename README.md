@@ -19,7 +19,7 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,redux,tailwind,py,mysql,mongodb,postman,docker,linux,git,github" height="50" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,node,react,redux,tailwind,py,mysql,mongodb,postman,docker,linux,git,github" height="50" alt="Tech Stack" />
 </div>
 
 ---
