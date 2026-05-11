@@ -26,8 +26,10 @@
 
 ### 📊 Meu Progresso
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonherikgc&theme=dracula&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonherikgc&theme=dracula&hide_border=true" width="100%" />
 </div>
+
+<br/>
 
 ---
 
