@@ -13,9 +13,9 @@
 ---
 
 ### 🚀 Tenho interesses em áreas como:
-- **Desenvolvimento Full-Stack**.
-- **CyberSecurity**
-- **DevOps** .
+- **Desenvolvimento Full-Stack**
+- **Ciber Segurança**
+- **DevOps**
 
 ### 🛠️ Tecnologias & Ferramentas
 <div align="center">
