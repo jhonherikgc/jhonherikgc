@@ -26,18 +26,7 @@
 
 ### 📊 Meu Progresso
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonherikgc/jhonherikgc/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhonherikgc/jhonherikgc/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/jhonherikgc/jhonherikgc/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonherikgc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonherikgc&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonherikgc&theme=dracula&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
