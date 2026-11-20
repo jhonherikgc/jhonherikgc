@@ -1,14 +1,5 @@
 <h1 align="center">Hello World! 👋 Eu sou o Jhon Herik</h1>
 
-<p align="center">
-  <a href="https://github.com/jhonherikgc">
-    <img src="https://img.shields.io/badge/Foco_Atual-Cibersegurança_(CTeSP)-0078D4?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Foco Cibersegurança">
-  </a>
-  <a href="https://github.com/jhonherikgc">
-    <img src="https://img.shields.io/badge/Formação-Técnico_de_Informática_&_Gestão-brightgreen?style=for-the-badge" alt="Técnico Informática e Gestão">
-  </a>
-</p>
-
 <p align="left">
   Olá! Sou natural de Brasília (DF) 🇧🇷 e atualmente moro em <b>Portugal</b> 🇵🇹. Sou formado no ensino secundário profissional como <b>Técnico de Informática e Gestão (Nível 4)</b> e hoje curso o <b>CTeSP em Cibersegurança (Nível 5)</b>. 
 </p>
